@@ -1,23 +1,32 @@
-# ProyectoSemana02_Batch
+# Fundamentos Java - Academia Accenture - Semana 02
 
-## Descripción del Proyecto
-Este proyecto es parte de la Semana 02 del curso de Fundamentos de Java en la Academia Accenture. Su objetivo es realizar una aplicación que implemente un batch para procesar información.
+## Ejercicio 1: Primer Ejercicio
+Descripción del ejercicio 1...
 
-## Funcionalidades
-- **Carga de Datos**: Lee datos de una fuente externa.
-- **Procesamiento**: Realiza cálculos o transformaciones sobre los datos.
-- **Salida de Datos**: Escribe los resultados en un formato adecuado.
+## Ejercicio 2: Segundo Ejercicio
+Descripción del ejercicio 2...
 
-## Requisitos Técnicos
-- Java 11
-- Maven 3.6.3 o superior
-- Base de datos SQL
+## Ejercicio 3: Tercer Ejercicio
+Descripción del ejercicio 3...
 
-## Instrucciones de Instalación
-1. Clonar el repositorio.
-2. Ejecutar `mvn clean install` para construir el proyecto.
-3. Configurar la conexión a la base de datos.
-4. Ejecutar el batch.
+## Ejercicio 4: Cuarto Ejercicio
+Descripción del ejercicio 4...
 
-## Contribuciones
-Para contribuir, por favor abre un pull request con tus cambios.
+## Ejercicio 5: Quinto Ejercicio
+Descripción del ejercicio 5...
+
+## Ejercicio 6: Sexto Ejercicio
+Descripción del ejercicio 6...
+
+# Proyecto Semana 02 - Batch
+## Documentación
+### Arquitectura
+Descripción de la arquitectura...
+
+### Requisitos
+- Requisito 1
+- Requisito 2
+
+### Conceptos Cubiertos
+- Concepto 1
+- Concepto 2
